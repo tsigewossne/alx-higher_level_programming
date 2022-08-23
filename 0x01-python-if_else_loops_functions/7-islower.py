@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-def islower(99):
-    letter = ord(99)
+def islower(c):
+    letter = ord(c)
     if letter >= 97 and letter <= 123:
         return True
     else:
