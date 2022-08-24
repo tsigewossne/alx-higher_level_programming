@@ -4,4 +4,4 @@ def islower(c):
     if letter >= 97 and letter <= 123:
         return True
     else:
-        return False 
+        return False
